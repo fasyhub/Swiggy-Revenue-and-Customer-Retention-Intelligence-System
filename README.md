@@ -54,6 +54,7 @@ Technologies Used :
 
  Google Sheets Link : https://docs.google.com/spreadsheets/d/14DmNAlpWll55waEJVBLWsJKneMYaQBSrffBTrBbz11g/edit?usp=sharing
  Google Colab Link : https://colab.research.google.com/drive/1x2V8p0mImIOBuS7XWZf4fWyN0weePmpO?usp=sharing
+ Tableau Dashboard : https://public.tableau.com/views/SwiggyRevenueCustomerRetentionIntelligenceDashboard/SwiggyRevenueCustomerRetentionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 INSIGHT SUMMARY :
 
